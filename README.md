@@ -19,3 +19,10 @@ Esse é um procedimento "workaround" / alternativo para quem não quer usar nenh
 7. Adicione a ação : Enviar Webhook, e coloque a sua URL do mautic (Geralmente http://[SITE ou IP]/form/submit
 
 Pronto, seu formulário Elementor está integrado ao Mautic
+
+As labels no Elementor ficarão assim:
+
+![alt text](https://github.com/thaina128/mautic-integracao-elementor/blob/master/form-elementor.png?raw=true)
+
+
+## Abraço a todos!
